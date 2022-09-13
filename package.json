@@ -1,0 +1,20 @@
+{
+  "name": "longestword",
+  "version": "1.0.0",
+  "description": "Define a _word_ as a sequence of consecutive English letters. Find the longest _word_ from the given string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/longestWord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/longestWord/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/longestWord#readme"
+}
